@@ -1,0 +1,2 @@
+Keras 버전 2.1.4
+Tensorflow 버전 1.4.0 
